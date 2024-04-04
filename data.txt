@@ -1,0 +1,3 @@
+name: Arnaldo
+Age: 27
+favorite color: yellow
